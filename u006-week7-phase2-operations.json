@@ -1,0 +1,33 @@
+{
+  "universe": "006",
+  "season": 2026,
+  "week": 7,
+  "phase": "II",
+  "status": "ACTIVE",
+  "last_game": {
+    "week": 6,
+    "opponent": "Philadelphia Eagles",
+    "carolina": 21,
+    "philadelphia": 24
+  },
+  "record": "2-3",
+  "ryan_fitzgerald": {
+    "field_goals": "0/4",
+    "extra_points": "3/3",
+    "review": "AUTHORIZED",
+    "roster_status": "RETAINED PENDING REVIEW"
+  },
+  "hfee": {
+    "week6_checkpoint": "LOCKED — NO REROLL",
+    "cases": {
+      "HFEE-2026-002": "WATCH",
+      "HFEE-2026-003": "ACTIVE",
+      "HFEE-2026-004": "ACTIVE"
+    },
+    "week7_roll": "NOT PERFORMED"
+  },
+  "medical": "UNVERIFIED",
+  "roster_moves": "NONE AUTHORIZED",
+  "next_opponent": "Tampa Bay Buccaneers",
+  "note": "Phase II operational report; dashboard HTML not changed."
+}
