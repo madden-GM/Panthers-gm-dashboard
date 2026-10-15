@@ -24,7 +24,7 @@
       "HFEE-2026-003": "ACTIVE — Bryson Tremaine role clarity",
       "HFEE-2026-004": "ACTIVE — McMillan/Young optional route timing; completion unconfirmed"
     },
-    "week7_roll": "NOT PERFORMED"
+    "week7_roll": "Provisional conversational rolls: routine 47/45 NO, meaningful 74/18 NO, existing review 12/50 YES; canonical lock not verified. Do not reroll without audit."
   },
   "medical": "UNVERIFIED",
   "roster_moves": "NONE AUTHORIZED",
@@ -75,5 +75,212 @@
     "injuries_reported": 0,
     "morale_percent": 43,
     "stale": true
+  },
+  "personnel_history": {
+    "source": "GM roster intake and historical preseason screenshots; Week 7 active status not fully reconciled",
+    "original_practice_squad": [
+      [
+        "Robert Rochell",
+        "CB",
+        28,
+        68
+      ],
+      [
+        "Sadiq Charles",
+        "LG",
+        27,
+        67
+      ],
+      [
+        "Jhameir Smith-Marsette",
+        "WR",
+        27,
+        67
+      ],
+      [
+        "Cam Gill",
+        "RE",
+        28,
+        66
+      ],
+      [
+        "Casey Washington",
+        "WR",
+        25,
+        66
+      ],
+      [
+        "Jeremiah Moon",
+        "LE",
+        28,
+        65
+      ],
+      [
+        "Corey Thornton",
+        "CB",
+        25,
+        65
+      ],
+      [
+        "Jake Curhan",
+        "RG",
+        28,
+        64
+      ],
+      [
+        "Zion Childress",
+        "SS",
+        24,
+        63
+      ],
+      [
+        "Neema Jongmenta",
+        "MLB",
+        25,
+        62
+      ]
+    ],
+    "preseason_releases": [
+      "Anthony Tyus III",
+      "David Moore",
+      "Torrelli Simpkins III",
+      "Albert Reese IV",
+      "Corey Bullock",
+      "Thomas Incoom",
+      "Stone Forsythe",
+      "Ben Martin-Scott"
+    ],
+    "preseason_practice_squad_designations": [
+      "Aaron Hall",
+      "Tara Edwards"
+    ],
+    "reconciliation": "Later GM roster intake includes some players named in preseason cuts; later return not verified.",
+    "kicker": [
+      "Ryan Fitzgerald",
+      "K",
+      2,
+      26,
+      76
+    ],
+    "draft_picks_2027": [
+      1,
+      2,
+      3,
+      4,
+      4,
+      6,
+      7,
+      7
+    ],
+    "draft_picks_2028": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "expiring_contracts_2026": [
+    "Bobby Okereke",
+    "Rasheed Walker",
+    "Mike Jackson",
+    "Darren Waller",
+    "Ikem Ekwonu",
+    "Tyrell Dodson",
+    "Brady Christensen",
+    "Nick Scott",
+    "A.J. Dillon",
+    "John Metchie III",
+    "J.J. Jansen",
+    "Tommy Tremble",
+    "Patrick Jones II",
+    "Trevis Gipson",
+    "Luke Fortner",
+    "Akayleb Evans",
+    "Isaiah Simmons",
+    "Bryson Tremaine",
+    "Kenny Pickett"
+  ],
+  "living_ledger": {
+    "cases": [
+      {
+        "id": "HFEE-2026-002",
+        "title": "Tepper / Gale accountability",
+        "status": "WATCH",
+        "owner": "Owner's Office",
+        "subjects": "David Tepper; Jason Gale",
+        "facts": "Opened W2 Phase II; record 2-3; no ultimatum.",
+        "next_review": "Next eligible HFEE review",
+        "closure": "Documented ownership reassessment",
+        "escalation": "Verified new ownership directive"
+      },
+      {
+        "id": "HFEE-2026-003",
+        "title": "Tremaine role clarity",
+        "status": "ACTIVE",
+        "owner": "Marcus Holloway / Football Operations",
+        "subjects": "Bryson Tremaine; Dave Canales; Marcus Holloway",
+        "facts": "Opened W3 Phase II; WR age 26 OVR 68; expiring contract reported; no trade demand or holdout.",
+        "next_review": "Week 7 role-conversation follow-up",
+        "closure": "Confirmed role agreement or documented disposition",
+        "escalation": "Verified agent involvement or GM-level personnel request"
+      },
+      {
+        "id": "HFEE-2026-004",
+        "title": "McMillan / Young voluntary timing",
+        "status": "ACTIVE",
+        "owner": "Marcus Holloway / Football Operations",
+        "subjects": "Tetairoa McMillan; Bryce Young; Dave Canales",
+        "facts": "Opened W6 Phase II; voluntary proposal welcomed; completion unconfirmed.",
+        "next_review": "Week 7 session confirmation",
+        "closure": "Documented completion or cancellation",
+        "escalation": "Verified coaching or resource conflict"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Fitzgerald field-goal review",
+        "owner": "Tyler McBride",
+        "status": "OPEN",
+        "facts": "0/4 FG, 3/3 XP W6; formal review authorized; roster retained",
+        "next_review": "Technical findings pending"
+      },
+      {
+        "title": "Brooks/Hubbard usage and protection",
+        "owner": "Bradley Idzik / Dave Canales",
+        "status": "OPEN",
+        "facts": "Brooks 131 scrimmage yards W6; Hubbard role preserved",
+        "next_review": "Week 7 coaching review"
+      },
+      {
+        "title": "Explosive pass defense",
+        "owner": "Darren Young",
+        "status": "OPEN",
+        "facts": "DeVonta Smith 83-yard TD W6; opponent rushing 36 yards",
+        "next_review": "Week 7 coaching review"
+      }
+    ],
+    "decisions": [
+      "W6 GM authorized Fitzgerald performance review, no roster move",
+      "W7 Phase II remains active; no new transactions, ratings changes or Phase III authorization"
+    ],
+    "checkpoint": "U006|2026|W07|PHASE_II|WEEKLY_HFEE — provisional, audit lock pending"
+  },
+  "gm_inbox": {
+    "decision_required": [],
+    "executive_awareness": [
+      "Fitzgerald review findings pending",
+      "Tremaine role follow-up pending",
+      "19 expiring contracts reported",
+      "Preseason cuts vs roster intake reconciliation pending",
+      "HFEE W7 canonical lock pending"
+    ],
+    "department_handling": [
+      "McMillan/Young timing initiative",
+      "Brooks/Hubbard workload and protection",
+      "Explosive pass review"
+    ]
   }
 }
