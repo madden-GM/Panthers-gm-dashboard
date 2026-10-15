@@ -20,14 +20,60 @@
   "hfee": {
     "week6_checkpoint": "LOCKED — NO REROLL",
     "cases": {
-      "HFEE-2026-002": "WATCH",
-      "HFEE-2026-003": "ACTIVE",
-      "HFEE-2026-004": "ACTIVE"
+      "HFEE-2026-002": "WATCH — Tepper/Gale accountability",
+      "HFEE-2026-003": "ACTIVE — Bryson Tremaine role clarity",
+      "HFEE-2026-004": "ACTIVE — McMillan/Young optional route timing; completion unconfirmed"
     },
     "week7_roll": "NOT PERFORMED"
   },
   "medical": "UNVERIFIED",
   "roster_moves": "NONE AUTHORIZED",
   "next_opponent": "Tampa Bay Buccaneers",
-  "note": "Phase II operational report; dashboard HTML not changed."
+  "note": "Verified Universe 006 handoff. Week 7 Phase II remains active; Review v3 layout locked. Unknown Week 7 values are not verified.",
+  "gm": "Jason Gale",
+  "owner": "David Tepper",
+  "points_for": 142,
+  "points_against": 133,
+  "point_differential": 9,
+  "streak": "L1",
+  "week7_game": "UNPLAYED",
+  "phase3_authorized": false,
+  "week6_team_stats": {
+    "carolina_total_offense": 413,
+    "philadelphia_total_offense": 298,
+    "carolina_first_downs": 25,
+    "philadelphia_first_downs": 11,
+    "carolina_rushing_yards": 189,
+    "carolina_net_passing_yards": 224,
+    "philadelphia_rushing_yards": 36
+  },
+  "week6_key_players": {
+    "bryce_young": "24/37, 246 pass yards, 1 pass TD; 4 rushes, 57 yards",
+    "jonathan_brooks": "13 rushes, 83 yards, 1 TD; 7 receptions, 48 yards",
+    "chuba_hubbard": "13 rushes, 37 yards, 1 TD; 3 receptions, 18 yards",
+    "xavier_legette": "4 receptions, 49 yards, 1 TD",
+    "tetairoa_mcmillan": "3 receptions, 54 yards",
+    "ryan_fitzgerald": "0/4 FG, 3/3 XP"
+  },
+  "week7_phase2": {
+    "status": "ACTIVE — NOT CLOSED",
+    "fitzgerald_review": "AUTHORIZED; findings pending; no roster change",
+    "coaching": "Canales drive finishing; Idzik Brooks workload and protection; Young explosive pass review; McBride four missed FG review",
+    "football_operations": "Tremaine role clarity active; McMillan/Young optional timing session completion unconfirmed",
+    "medical": "W7 UNVERIFIED",
+    "salary_cap": "W7 UNVERIFIED; W5 $11.6M historical only",
+    "evolution": "Window 1 applied; Window 2 underway; no new edits",
+    "eos_readiness": "PENDING"
+  },
+  "last_verified_financial_snapshot": {
+    "week": 5,
+    "cap_space_million": 11.6,
+    "salaries_million": 271,
+    "reserve_million": 14.1,
+    "dead_cap_million": 26.7,
+    "medical_health_percent": 100,
+    "injuries_reported": 0,
+    "morale_percent": 43,
+    "stale": true
+  }
 }
