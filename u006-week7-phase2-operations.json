@@ -2,8 +2,8 @@
   "universe": "006",
   "season": 2026,
   "week": 7,
-  "phase": "II",
-  "status": "ACTIVE",
+  "phase": "IV",
+  "status": "ACTIVE — GAME DAY READINESS",
   "last_game": {
     "week": 6,
     "opponent": "Philadelphia Eagles",
@@ -24,7 +24,8 @@
       "HFEE-2026-003": "ACTIVE — Bryson Tremaine role clarity",
       "HFEE-2026-004": "ACTIVE — McMillan/Young optional route timing; completion unconfirmed"
     },
-    "week7_roll": "Provisional conversational rolls: routine 47/45 NO, meaningful 74/18 NO, existing review 12/50 YES; canonical lock not verified. Do not reroll without audit."
+    "week7_roll": "Provisional conversational rolls: routine 47/45 NO, meaningful 74/18 NO, existing review 12/50 YES; canonical lock not verified. Do not reroll without audit.",
+    "week7_checkpoint_status": "EXISTING PROVISIONAL ROLLS PRESERVED; CANONICAL AUDIT LOCK NOT VERIFIED"
   },
   "medical": "UNVERIFIED",
   "roster_moves": "NONE AUTHORIZED",
@@ -36,8 +37,8 @@
   "points_against": 133,
   "point_differential": 9,
   "streak": "L1",
-  "week7_game": "UNPLAYED",
-  "phase3_authorized": false,
+  "week7_game": "UNPLAYED — PREGAME",
+  "phase3_authorized": true,
   "week6_team_stats": {
     "carolina_total_offense": 413,
     "philadelphia_total_offense": 298,
@@ -56,7 +57,7 @@
     "ryan_fitzgerald": "0/4 FG, 3/3 XP"
   },
   "week7_phase2": {
-    "status": "ACTIVE — NOT CLOSED",
+    "status": "COMPLETED WITH HFEE HOLDS CARRIED FORWARD",
     "fitzgerald_review": "AUTHORIZED; findings pending; no roster change",
     "coaching": "Canales drive finishing; Idzik Brooks workload and protection; Young explosive pass review; McBride four missed FG review",
     "football_operations": "Tremaine role clarity active; McMillan/Young optional timing session completion unconfirmed",
@@ -264,7 +265,8 @@
     ],
     "decisions": [
       "W6 GM authorized Fitzgerald performance review, no roster move",
-      "W7 Phase II remains active; no new transactions, ratings changes or Phase III authorization"
+      "W7 Phase II remains active; no new transactions, ratings changes or Phase III authorization",
+      "W7 GM authorized Phase IV Game Day Readiness; no game simulated"
     ],
     "checkpoint": "U006|2026|W07|PHASE_II|WEEKLY_HFEE — provisional, audit lock pending"
   },
@@ -282,5 +284,19 @@
       "Brooks/Hubbard workload and protection",
       "Explosive pass review"
     ]
+  },
+  "phase4_authorized": true,
+  "week7_phase3": {
+    "status": "COMPLETE — GM AUTHORIZED",
+    "head_coach": "Dave Canales",
+    "opponent": "Tampa Bay Buccaneers (1–5)",
+    "plan": "Inside Zone/RPO/timing offense; Cover 3 Match and split-field defense; four-man pressure priority; Fitzgerald review continues"
+  },
+  "week7_phase4": {
+    "status": "ACTIVE — GM AUTHORIZED",
+    "kickoff": "1:00 PM",
+    "venue": "Carolina home",
+    "weather": "Chance of rain",
+    "game": "UNPLAYED"
   }
 }
